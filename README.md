@@ -10,14 +10,6 @@ The key feature:
 When the "Cheap" mode is enabled, user messages are automatically translated into Traditional Chinese before being sent to the model, and then translated back to the user’s original language upon response.
 Since Traditional Chinese often uses fewer tokens, this approach can reduce API costs while keeping the same conversational meaning.
 
-🚀 Features
-⚙️ API Key Input — Enter your OpenAI API key (hidden behind asterisks for privacy).
-💬 Chat Interface — Real-time, bubble-style conversation UI similar to ChatGPT.
-🔄 Model Selector — Choose from various OpenAI models (configurable).
-💡 Normal / Cheap Mode Switch — Toggle between standard chat and token-saving mode.
-🌐 Automatic Translation — Detects the user’s language and translates as needed.
-🧹 Stateless Design — Messages are not stored after a page refresh for privacy.
-🎨 Modern UI — Clean, responsive design built with modern front-end tech.
 
 🧠 How It Works
 The user enters a message in any language.
