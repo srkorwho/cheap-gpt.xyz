@@ -1,7 +1,3 @@
-# cheap-gpt.xyz
-Cheap-GPT is a modern, minimal, and elegant web app designed to make AI chat more affordable by optimizing token usage through intelligent language translation.
-
-🌍 Overview
 
 Cheap-GPT acts as a lightweight ChatGPT-style interface powered by the OpenAI API.
 It allows users to interact with different OpenAI models in a clean, responsive chat environment.
